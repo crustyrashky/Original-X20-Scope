@@ -6,7 +6,7 @@ Install this mod with the [CRUELTY SQUAD MOD LOADER](https://github.com/crustyra
 
 ## Install
 
-1. Download the [latest release](https://github.com/crustyrashky/Original-X20-Scope/releases/download/1.0.0/Original-X20-Scope-1.0.0.zip)
+1. Download the [latest release](https://github.com/crustyrashky/Original-X20-Scope/releases/download/1.0.1/Original-X20-Scope-1.0.1.zip)
 2. Extract `Original X20 Scope` folder to `%appdata%\Godot\app_userdata\Cruelty Squad\mods`
 
 ## Credits
