@@ -736,6 +736,7 @@ transform = Transform( -1, 0, -3.25841e-07, 0, 1, 0, 3.25841e-07, 0, -1, -0.1786
 cull_mask = 1048571
 current = true
 fov = 10.0
+far = 473.0
 
 [node name="ShellPosition" type="Position3D" parent="Player_Weapon"]
 transform = Transform( -1, 0, 3.25841e-07, 0, 1, 0, -3.25841e-07, 0, -1, 0.050724, 0.0164324, -0.090189 )
